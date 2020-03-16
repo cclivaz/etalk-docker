@@ -58,7 +58,7 @@ To make your own etalk, you can follow the how-to from the etalk _"Make your own
 
 ## License
 
-GPULv3 license; complete version: 
+GPULv3 license; complete version: https://github.com/cclivaz/etalk-docker/blob/master/LICENSE.md
 Summary: This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 License of the first version 2012-2015: https://github.com/OZWE/etalk/blob/master/LICENSE.md
