@@ -1,8 +1,17 @@
+# DEFINITION AND HISTORY 
+
+The eTalk, a multimedia editing tool, is the result of collaborative and transdisciplinary work. It is part of a new form of multimodal digital literacy, while respecting the standards of scientific publishing. It is quotable entirely in details through a share button.
+
+The first version of the eTalks code has been developed in 2012-2015 by Frédéric Kaplan and Cyril Bornet (EPFL, CH), and is available on Github: https://github.com/OZWE/etalk
+
+This new version of the code has been developed by Martial Sankar and Claire Clivaz, SIB Swiss Institute of Bioinformatics, 2016-2019
+
+Publications: 
+Clivaz, Claire, Cécile Pache, Marion Rivoal and Martial Sankar. “Multimodal Literacies and Academic Publishing: the eTalks.” Information Services & Use 35/4 (2015): 251-258.
+Clivaz, Claire, Marion Rivoal and Martial Sankar. “A New Plateform for Editing Digital Multimedia: The eTalks.” In New Avenues for Electronic Publishing in the Age of Infinite Collections and Citizen Science: Scale, Openness and Trust, edited by Birgit Schmidt and Milena Dobreva, 156-159. IOS Press, 2015.
+
+
 # HOW TO CREATE AN ETALK USING THE CONTAINER 
-
-The first version of the eTalks has been developed in 2012-2015 by Frédéric Kaplan and Cyril Bornet (EPFL, CH), and is available on Github: https://github.com/OZWE/etalk
-
-This new version has been developed_by Martial Sankar and Claire Clivaz, SIB Swiss Institute of Bioinformatics, 2016-2019
 
 This etalk setup is suitable for eduction purpose. It permits to use and test the etalk application on the user's own plateform. It uses the docker-compose tool to set-up the application services (etalk php/apache, mysql, phpmyadmin). 
 
