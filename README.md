@@ -46,7 +46,7 @@ This etalk setup is suitable for eduction purpose. It permits to use and test th
 	go to the url http://192.168.99.100:88 for the __viewer interface__ or http://192.168.99.100:88/edit for the __edit interface__
 
 
-## SECOND STEP : MAKE YOU OWN ETALK
+## SECOND STEP : MAKE YOUR OWN ETALK
 
 To make your own etalk, you can follow the how-to from the etalk _"Make your own etalk"_ accessing http://192.168.99.100:88
  
