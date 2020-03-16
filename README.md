@@ -6,8 +6,8 @@ The first version of the eTalks code has been developed in 2012-2015 by Frédér
 
 This new version of the code has been developed by Martial Sankar and Claire Clivaz, SIB Swiss Institute of Bioinformatics, 2016-2019
 
-Publications: 
 Clivaz, Claire, Cécile Pache, Marion Rivoal and Martial Sankar. “Multimodal Literacies and Academic Publishing: the eTalks.” Information Services & Use 35/4 (2015): 251-258.
+
 Clivaz, Claire, Marion Rivoal and Martial Sankar. “A New Plateform for Editing Digital Multimedia: The eTalks.” In New Avenues for Electronic Publishing in the Age of Infinite Collections and Citizen Science: Scale, Openness and Trust, edited by Birgit Schmidt and Milena Dobreva, 156-159. IOS Press, 2015.
 
 
