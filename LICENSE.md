@@ -1,4 +1,4 @@
-Previous license: https://github.com/OZWE/etalk/blob/master/LICENSE.md
+License history: https://github.com/cclivaz/etalk-docker/blob/master/README.md
 
 GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
