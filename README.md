@@ -1,6 +1,8 @@
 # HOW TO CREATE AN ETALK USING THE CONTAINER 
 
-_by Martial Sankar & Claire Clivaz_
+The first version of the eTalks has been developed by Frédéric Kaplan and Cyril Bornet (EPFL, CH), and is available on Github: https://github.com/OZWE/etalk
+
+This new version has been developed_by Martial Sankar and Claire Clivaz, SIB Swiss Institute of Bioinformatics, 2016-2019
 
 This etalk setup is suitable for eduction purpose. It permits to use and test the etalk application on the user's own plateform. It uses the docker-compose tool to set-up the application services (etalk php/apache, mysql, phpmyadmin). 
 
