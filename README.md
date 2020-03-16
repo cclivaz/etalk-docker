@@ -1,6 +1,6 @@
 # HOW TO CREATE AN ETALK USING THE CONTAINER 
 
-The first version of the eTalks has been developed by Frédéric Kaplan and Cyril Bornet (EPFL, CH), and is available on Github: https://github.com/OZWE/etalk
+The first version of the eTalks has been developed in 2013-2015 by Frédéric Kaplan and Cyril Bornet (EPFL, CH), and is available on Github: https://github.com/OZWE/etalk
 
 This new version has been developed_by Martial Sankar and Claire Clivaz, SIB Swiss Institute of Bioinformatics, 2016-2019
 
