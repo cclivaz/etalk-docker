@@ -1,4 +1,4 @@
-License history: https://github.com/cclivaz/etalk-docker/blob/master/README.md
+Read also License summary: https://github.com/cclivaz/etalk-docker/blob/master/README.md
 
 GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
