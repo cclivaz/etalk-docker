@@ -4,11 +4,11 @@ The eTalk, a multimedia editing tool, is the result of collaborative and transdi
 
 The first version of the eTalks code has been developed in 2012-2015 by Frédéric Kaplan and Cyril Bornet (EPFL, CH), and is available on Github: https://github.com/OZWE/etalk
 
-This new version of the code has been developed by Martial Sankar and Claire Clivaz, SIB Swiss Institute of Bioinformatics, 2016-2019
+This new version of the code has been developed by Martial Sankar and Claire Clivaz, SIB Swiss Institute of Bioinformatics, 2016-2019.
 
-Clivaz, Claire, Cécile Pache, Marion Rivoal and Martial Sankar. “Multimodal Literacies and Academic Publishing: the eTalks.” Information Services & Use 35/4 (2015): 251-258.
+Clivaz, Claire, Cécile Pache, Marion Rivoal and Martial Sankar, “Multimodal Literacies and Academic Publishing: the eTalks”, Information Services & Use 35/4 (2015), p. 251-258.
 
-Clivaz, Claire, Marion Rivoal and Martial Sankar. “A New Plateform for Editing Digital Multimedia: The eTalks.” In New Avenues for Electronic Publishing in the Age of Infinite Collections and Citizen Science: Scale, Openness and Trust, edited by Birgit Schmidt and Milena Dobreva, 156-159. IOS Press, 2015.
+Clivaz, Claire, Marion Rivoal and Martial Sankar, “A New Plateform for Editing Digital Multimedia: The eTalks”, in New Avenues for Electronic Publishing in the Age of Infinite Collections and Citizen Science: Scale, Openness and Trust, Birgit Schmidt and Milena Dobreva (eds.), IOS Press, 2015, p. 156-159.
 
 
 # HOW TO CREATE AN ETALK USING THE CONTAINER 
@@ -65,7 +65,7 @@ To make your own etalk, you can follow the how-to from the etalk _"Make your own
 
 2. go to the __edit interface__  and start editing your etalk.
 
-## License
+## License summary
 
 GPULv3 license; complete version: https://github.com/cclivaz/etalk-docker/blob/master/LICENSE.md
 Summary: This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
