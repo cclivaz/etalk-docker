@@ -6,9 +6,9 @@ The first version of the eTalks code has been developed in 2012-2015 by Frédér
 
 This new version of the code has been developed by Martial Sankar and Claire Clivaz, SIB Swiss Institute of Bioinformatics, 2016-2019.
 
-Clivaz, Claire, Cécile Pache, Marion Rivoal and Martial Sankar, “Multimodal Literacies and Academic Publishing: the eTalks”, Information Services & Use 35/4 (2015), p. 251-258.
+Clivaz, Claire, Cécile Pache, Marion Rivoal and Martial Sankar, “Multimodal Literacies and Academic Publishing: the eTalks”, Information Services & Use 35/4 (2015), p. 251-258, https://content.iospress.com/articles/information-services-and-use/isu781
 
-Clivaz, Claire, Marion Rivoal and Martial Sankar, “A New Plateform for Editing Digital Multimedia: The eTalks”, in New Avenues for Electronic Publishing in the Age of Infinite Collections and Citizen Science: Scale, Openness and Trust, Birgit Schmidt and Milena Dobreva (eds.), IOS Press, 2015, p. 156-159.
+Clivaz, Claire, Marion Rivoal and Martial Sankar, “A New Plateform for Editing Digital Multimedia: The eTalks”, in New Avenues for Electronic Publishing in the Age of Infinite Collections and Citizen Science: Scale, Openness and Trust, Birgit Schmidt and Milena Dobreva (eds.), IOS Press, 2015, p. 156-159, http://ebooks.iospress.nl/publication/40894
 
 
 # HOW TO CREATE AN ETALK USING THE CONTAINER 
@@ -68,7 +68,7 @@ To make your own etalk, you can follow the how-to from the etalk _"Make your own
 ## License summary
 
 GPULv3 license; complete version: https://github.com/cclivaz/etalk-docker/blob/master/LICENSE.md
-Summary: This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+This program is a free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 License of the first version 2012-2015: https://github.com/OZWE/etalk/blob/master/LICENSE.md
 Copyright (c) 2012-2013 OZWE SàRL: Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
